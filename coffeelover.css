@@ -1,0 +1,36 @@
+div{
+    width: 5000px;
+    padding: 20px;
+    border: 100px;
+    background-color: rgb(197, 193, 193);
+}
+h1{
+    font-family:fantasy ;
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h2{
+    font-family: sans-serif;
+    text-align: center;
+}
+.table{
+    margin: auto;
+}
+td{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
+#one{
+    background-image:url(one.jpg );
+}
+#two{
+    background-image: url(two.jpg);
+}
+#three{
+    background-image: url(three.jpg);
+}
+#four{
+    background-image: url(four.jpg);
+}
